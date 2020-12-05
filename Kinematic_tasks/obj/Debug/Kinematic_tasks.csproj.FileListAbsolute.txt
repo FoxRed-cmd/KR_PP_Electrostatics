@@ -1,0 +1,6 @@
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\bin\Debug\Kinematic_tasks.dll
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\bin\Debug\Kinematic_tasks.pdb
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\obj\Debug\Kinematic_tasks.csprojAssemblyReference.cache
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\obj\Debug\Kinematic_tasks.csproj.CoreCompileInputs.cache
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\obj\Debug\Kinematic_tasks.dll
+D:\Projects\KR_PP_Electrostatics\Kinematic_tasks\obj\Debug\Kinematic_tasks.pdb
