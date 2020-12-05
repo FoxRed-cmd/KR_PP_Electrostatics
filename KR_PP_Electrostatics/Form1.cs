@@ -117,8 +117,16 @@ namespace KR_PP_Electrostatics
 		{
 			if (radioButton1.Checked)
 			{
-				Task1 task1 = new Task1() { Q1 = Convert.ToDouble(textBox2.Text), Q2 = Convert.ToDouble(textBox3.Text) };
-				textBox1.Text = "Результат: " + Convert.ToInt32(task1.Decision()).ToString() + " В*м";
+				try
+				{
+					Task1 task1 = new Task1() { Q1 = Convert.ToDouble(textBox2.Text), Q2 = Convert.ToDouble(textBox3.Text) };
+					textBox1.Text = "Результат: " + Convert.ToInt32(task1.Decision()).ToString() + " В*м";
+				}
+				catch (Exception)
+				{
+					MessageBox.Show("Вы не ввели данные", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+				}
 			}
 		}	
 	}

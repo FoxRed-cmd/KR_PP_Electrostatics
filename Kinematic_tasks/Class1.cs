@@ -3,12 +3,12 @@
 namespace Kinematic_tasks
 {
 	
-	abstract public class Task
+	abstract public class Tasks_Ph
 	{
 		abstract public double Decision();
 
 	}
-	public class Task1 : Task
+	public class Task1 : Tasks_Ph
 	{
 		public double Q1 { get; set; }
 		public double Q2 { get; set; }
