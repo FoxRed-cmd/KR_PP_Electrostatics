@@ -1,0 +1,13 @@
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\bin\Release\KR_PP_Electrostatics.exe.config
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\bin\Release\KR_PP_Electrostatics.exe
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\bin\Release\KR_PP_Electrostatics.pdb
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\bin\Release\Kinematic_tasks.dll
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\bin\Release\Kinematic_tasks.pdb
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.csprojAssemblyReference.cache
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.Form1.resources
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.Properties.Resources.resources
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.csproj.GenerateResource.cache
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.csproj.CoreCompileInputs.cache
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.csproj.CopyComplete
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.exe
+D:\Projects\KR_PP_Electrostatics\KR_PP_Electrostatics\obj\Release\KR_PP_Electrostatics.pdb
